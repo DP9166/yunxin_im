@@ -1,0 +1,20 @@
+{
+    "name": "str/yunxin_im",
+    "description": "网易云信IM 服务端API包",
+    "authors": [
+        {
+            "name": "duanpei"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0.0",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "YunXinHelper\\": "src"
+        }
+    }
+}
