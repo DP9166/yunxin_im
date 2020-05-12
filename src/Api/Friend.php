@@ -1,13 +1,13 @@
 <?php
 
-namespace YunXinHelper\Api;
+namespace YunXinIM\Api;
 
-use YunXinHelper\Exception\YunXinArgException;
-use YunXinHelper\Exception\YunXinBusinessException;
-use YunXinHelper\Exception\YunXinInnerException;
-use YunXinHelper\Exception\YunXinNetworkException;
+use YunXinIM\Exception\YunXinArgException;
+use YunXinIM\Exception\YunXinBusinessException;
+use YunXinIM\Exception\YunXinInnerException;
+use YunXinIM\Exception\YunXinNetworkException;
 
-class Friend extends \YunXinHelper\Api\Base
+class Friend extends \YunXinIM\Api\Base
 {
     /**
      * 用户关注

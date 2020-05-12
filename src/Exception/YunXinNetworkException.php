@@ -1,6 +1,6 @@
 <?php
 
-namespace YunXinHelper\Exception;
+namespace YunXinIM\Exception;
 
 
 use Exception;

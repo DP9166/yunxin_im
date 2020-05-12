@@ -1,5 +1,5 @@
 {
-    "name": "str/yunxin_im",
+    "name": "duanpei/yunxin_im",
     "description": "网易云信IM 服务端API包",
     "authors": [
         {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YunXinHelper\\": "src"
+            "YunXinIM\\": "src/"
         }
     }
 }
